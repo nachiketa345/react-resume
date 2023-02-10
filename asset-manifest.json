@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.8ea4c74a.css",
+    "main.js": "/react-resume/static/js/main.e36485ac.js",
+    "static/js/496.0320d045.chunk.js": "/react-resume/static/js/496.0320d045.chunk.js",
+    "static/media/Jost-Bold.woff2": "/react-resume/static/media/Jost-Bold.446df6a4340e38cf057e.woff2",
+    "static/media/Jost-SemiBold.woff2": "/react-resume/static/media/Jost-SemiBold.5e870d022fb0e202fd79.woff2",
+    "static/media/Jost-Medium.woff2": "/react-resume/static/media/Jost-Medium.5ea95ccc27119301bdc7.woff2",
+    "index.html": "/react-resume/index.html",
+    "main.8ea4c74a.css.map": "/react-resume/static/css/main.8ea4c74a.css.map",
+    "main.e36485ac.js.map": "/react-resume/static/js/main.e36485ac.js.map",
+    "496.0320d045.chunk.js.map": "/react-resume/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ea4c74a.css",
+    "static/js/main.e36485ac.js"
+  ]
+}
