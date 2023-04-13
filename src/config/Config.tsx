@@ -1,35 +1,28 @@
 // A
-export const NAME = "Pratik Kabade";
-export const JOB_TITLE = "Full Stack Web Development";
-export const LOCATION = "Sangli, Maharashtra";
+export const NAME = "Nachiketa Anand";
+export const JOB_TITLE = "Dotnet Web Developer";
+export const LOCATION = "Muzaffarpur, Bihar";
 
 // B
 export const CONTACT = [
     {
-        "name": "Portfolio",
-        "link": "https://pratikkabade.com",
-        "value": "pratikkabade.com",
-        "icon": "↗",
-        "margin": "20px"
-    },
-    {
         "name": "Github",
-        "link": "https://github.com/pratikkabade",
-        "value": "github.com/pratikkabade",
+        "link": "https://github.com/nachiketa345",
+        "value": "github.com/nachiketa345",
         "icon": "↗",
         "margin": "30px"
     },
     {
         "name": "Email",
-        "link": "mailto:pratik.kabade@outlook.com",
-        "value": "pratik.kabade@outlook.com",
+        "link": "mailto:anand.nachiketa345@gmail.com",
+        "value": "anand.nachiketa345@gmail.com",
         "icon": "↗",
         "margin": "38px"
     },
     {
         "name": "Phone",
-        "link": "tel:+919405287423",
-        "value": "+91 940 528 7423",
+        "link": "tel:+917004572689",
+        "value": "+91 700 457 2689",
         "icon": "↗",
         "margin": "30px"
     }
@@ -41,15 +34,15 @@ export const SUMMARY = "I am looking ahead to establishing a career in the organ
 // D
 export const EXPERIENCE = [
     {
-        "title": "FSE INTERN",
-        "date": "Nov 2022 - Present",
+        "title": "Programmer Analyst Trainee",
+        "date": "Mar 2022 - Present",
         "company": "Cognizant",
         "bullets": [
         ]
     },
     {
-        "title": "FSE INTERN",
-        "date": "Jul - Sept 2022",
+        "title": "Dotnet IOT",
+        "date": "Mar 2022-Sept 2022",
         "company": "Cognizant",
         "bullets": [
             "Full Stack Web Development by using ASP.NET MVC (Model View Control) for frontend, ASP.NET WebAPI for backend, Authentication by using JSON Web Token, use of RESTful API (Application Programming Interface) and building microservices, using docker to deploy docker images",
@@ -71,8 +64,8 @@ export const EXPERIENCE = [
 export const EDUCATION = [
     {
         "title": "BTech in Mechanical Engineering",
-        "date": "2017 - 2022",
-        "company": "Rajarambapu Institute of Technology, Islampur",
+        "date": "2018 - 2022",
+        "company": "Bharati Vidyapeeth Deemed University, College of Engineering Pune",
         "details": [
             {
                 "title": "Grade",
@@ -82,23 +75,23 @@ export const EDUCATION = [
     },
     {
         "title": "HSC",
-        "date": "2015 - 2017",
-        "company": "Rajput Jr. College of Science, Sangli",
+        "date": "2017 - 2018",
+        "company": "St.Xavier's Jr./Sr. School",
         "details": [
             {
                 "title": "Grade",
-                "description": "65%"
+                "description": "69%"
             },
         ]
     },
     {
         "title": "SSC",
-        "date": "2014 - 2015",
-        "company": "KPSP, Sangli",
+        "date": "2015 - 2016",
+        "company": "St.Xavier's Jr./Sr. School",
         "details": [
             {
                 "title": "Grade",
-                "description": "83%"
+                "description": "95%"
             },
         ]
     },
@@ -141,16 +134,14 @@ export const SKILLS = [
         "skills": [
             "HTML",
             "CSS",
-            "Sass",
             "Bootstrap",
             "jQuery",
-            "React",
-            "ASP.NET MVC",
-            "ASP.NET WebAPI",
+            "Blazor", 
+            "ASP.NETCore MVC",
+            "ASP.NETCore WebAPI",
             "RESTful API",
-            "Node",
-            "Express",
-            "MongoDB",
+            "EntityFrameworkCore"
+            "Sql Server",
             "SQL",
         ]
     },
@@ -158,12 +149,11 @@ export const SKILLS = [
         "title": "Tools",
         "skills": [
             "Git",
+            "Visual Studio",
             "VS Code",
             "Docker",
             "Postman",
-            "Figma",
-            "Adobe Photoshop",
-            "Adobe XD",
+            
         ]
     },
 ]
